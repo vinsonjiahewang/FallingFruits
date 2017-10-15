@@ -2,7 +2,7 @@
 //  GameplaySceneClass.swift
 //  FallingFruits
 //
-//  Created by Ayush Jaiswal on 10/14/17.
+//  Created by Vinson Wang &  Ayush Jaiswal on 10/14/17.
 //  Copyright © 2017 Ayush&Vinson. All rights reserved.
 //
 
